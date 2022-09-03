@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @GeetKaushik
-- 👀 I’m interested in Everything :)
-- 🌱 I’m currently learning C,C++,CLI
 - 📫 I am from place unknown :)
 
 <!---
